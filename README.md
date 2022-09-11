@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm An impact-driven developer with strong social sense and interdisciplinary skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a maker who loves to explore, prototype, experiment and co-create!
+# 💫 About Me
+# I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
 
 
 ## 🌐 Socials:
@@ -15,7 +15,6 @@ I'm An impact-driven developer with strong social sense and interdisciplinary sk
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omarsa999&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
