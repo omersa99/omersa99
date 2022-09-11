@@ -1,5 +1,5 @@
 # 💫 About Me
-## I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
+I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
 
 
 <!-- Add my latest projects -->
