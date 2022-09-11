@@ -2,6 +2,8 @@
 ## I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
 
 
+<!-- Add my latest projects -->
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsa999) 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@omarsa.tech) 
