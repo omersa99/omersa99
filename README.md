@@ -27,6 +27,6 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omarsa999&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=Omarsa999&icon=6&color=0)](https://visitcount.itsvg.in)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Omarsa999&icon=6&color=0)](https://visitcount.itsvg.in)
