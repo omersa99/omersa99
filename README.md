@@ -17,12 +17,13 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 
 ![](https://github-readme-stats.vercel.app/api?username=Omarsa999&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Omarsa999&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsa999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsa999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ -->
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omarsa999&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ---
   
