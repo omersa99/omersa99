@@ -3,10 +3,6 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 
 
 <!-- Add my latest projects -->
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsa999) 
-[![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@omarsa.tech) 
 
 
 # 💻 Tech Stack
@@ -29,4 +25,10 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarsa999) 
+[![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@omarsa.tech) 
+
+
 [![](https://visitcount.itsvg.in/api?id=Omarsa999&icon=6&color=0)](https://visitcount.itsvg.in)
