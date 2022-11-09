@@ -1,6 +1,23 @@
+<p align="center">
+  <a href="https://omarsa.tech" alt="Omar Sabbah" />
+  <img src="https://raw.githubusercontent.com/omarsa999/omarsa999/main/omarLogo.png" />
+  </a>
+</p>
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=600&lines=%F0%9F%8E%93+Software+Engineer++%26+Full+Stack+Developer;explore%2C+prototype%2C+experiment+and+co-create!;Pursuing+a+Meaningful+Journey+%F0%9F%8D%84;Chess+%E2%99%9F%EF%B8%8F+%7C%7C+snooker+Player+%F0%9F%8E%B1+%7C%7C+Knight+Racer+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
+
+
 # 💫 About Me
 I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
 
+## 🛠️ My favorite tools
+### 👨‍💻 Programming and markup languages
+### 🧰 Frameworks and libraries
+### 🗄️ Databases and cloud hosting
+### 💻 Software and tools
 
 <!-- Add my latest projects -->
 
