@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=600&lines=%F0%9F%8E%93+Software+Engineer++%26+Full+Stack+Developer;explore%2C+prototype%2C+experiment+and+co-create!;Pursuing+a+Meaningful+Journey+%F0%9F%8D%84;Chess+%E2%99%9F%EF%B8%8F+%7C%7C+snooker+Player+%F0%9F%8E%B1+%7C%7C+Knight+Racer+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=630&lines=%F0%9F%8E%93+Software+Engineer++%26+A+Passionate+Full+Stack+Developer;Explore%2C+Prototype%2C+Experiment+%26+Co-create!;Pursuing+a+Meaningful+Journey+%F0%9F%8D%84;Chess+%E2%99%9F%EF%B8%8F+%7C%7C+Snooker+%F0%9F%8E%B1+%7C%7C+Knight+Racer+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 
