@@ -9,9 +9,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=630&lines=%F0%9F%8E%93+Software+Engineer++%26+A+Passionate+Full+Stack+Developer;Explore%2C+Prototype%2C+Experiment+%26+Co-create!;Pursuing+a+Meaningful+Journey+%F0%9F%8D%84;Chess+%E2%99%9F%EF%B8%8F+%7C%7C+Snooker+%F0%9F%8E%B1+%7C%7C+Knight+Racer+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Omarsa999&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me
+## 🌐 Socials:
+<p align="center">
+ <a href="mailto:hello@omarsa.tech" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omarsa999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarsa999" height="30" width="40" /></a>
+<a href="https://fb.com/omar.saba7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar.saba7" height="30" width="40" /></a>
+<a href="https://instagram.com/omar.sabbah71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar.sabbah71" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omar_sabbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar_sabbah" height="30" width="40" /></a>
+</p>
+
+
+
+## 💫 About Me
 I'm An impact-driven developer with strong social sense and **interdisciplinary** skills.<br>Have a good understanding of technology and business logic.<br>Thrilled by new tech, Appreciate creative processes<br>And a **maker** who loves to **explore**, prototype, experiment and **co-create!**
+
 
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming and markup languages
@@ -72,11 +85,11 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 -->
-
-# 📊 GitHub Stats:
+<!-- 
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Omarsa999&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Omarsa999&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omarsa999&theme=radical&hide_border=true)<br/> -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsa999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
  -->
@@ -88,8 +101,11 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 ---
   
 ## 🌐 Socials:
+
+<!-- <p align="center"> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/omr999) 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@omarsa.tech) 
+<!-- </p> -->
 
 
-[![](https://visitcount.itsvg.in/api?id=Omarsa999&icon=6&color=0)](https://visitcount.itsvg.in)
+
