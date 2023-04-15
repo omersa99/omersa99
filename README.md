@@ -14,8 +14,10 @@
 ## 🌐 Socials:
 <p align="center">
  <a href="mailto:hello@omarsa.tech" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omersa999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarsa999" height="30" width="40" /></a>
+<a href="https://
 
+
+din.com/in/omersa999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarsa999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omar_sabbah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar_sabbah" height="30" width="40" /></a>
 </p>
 
@@ -102,7 +104,7 @@ I'm An impact-driven developer with strong social sense and **interdisciplinary*
 ## 🌐 Socials:
 
 <!-- <p align="center"> -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/omr999) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/omersa99) 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@omarsa.tech) 
 <!-- </p> -->
 
